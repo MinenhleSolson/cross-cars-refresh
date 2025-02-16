@@ -15,8 +15,6 @@ function App() {
   return (
     <div className="App">
 
-    
-
    <Router>
     <div className='p-3'>
     <Switch>
